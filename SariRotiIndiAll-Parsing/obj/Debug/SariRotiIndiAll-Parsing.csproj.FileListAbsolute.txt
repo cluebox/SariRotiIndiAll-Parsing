@@ -1,0 +1,8 @@
+D:\Dotnet project\SariRotiIndiAll-Parsing\SariRotiIndiAll-Parsing\bin\Debug\SariRotiIndiAll-Parsing.exe.config
+D:\Dotnet project\SariRotiIndiAll-Parsing\SariRotiIndiAll-Parsing\obj\Debug\SariRotiIndiAll-Parsing.csprojResolveAssemblyReference.cache
+D:\Dotnet project\SariRotiIndiAll-Parsing\SariRotiIndiAll-Parsing\bin\Debug\SariRotiIndiAll-Parsing.exe
+D:\Dotnet project\SariRotiIndiAll-Parsing\SariRotiIndiAll-Parsing\bin\Debug\SariRotiIndiAll-Parsing.pdb
+D:\Dotnet project\SariRotiIndiAll-Parsing\SariRotiIndiAll-Parsing\bin\Debug\SpssLib.dll
+D:\Dotnet project\SariRotiIndiAll-Parsing\SariRotiIndiAll-Parsing\bin\Debug\SpssLib.xml
+D:\Dotnet project\SariRotiIndiAll-Parsing\SariRotiIndiAll-Parsing\obj\Debug\SariRotiIndiAll-Parsing.exe
+D:\Dotnet project\SariRotiIndiAll-Parsing\SariRotiIndiAll-Parsing\obj\Debug\SariRotiIndiAll-Parsing.pdb
